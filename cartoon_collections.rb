@@ -12,3 +12,4 @@ def list_dwarves(array)
     puts "#{index}. #{value}"
   # Print a numbered list of each element
 end
+end
